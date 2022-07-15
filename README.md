@@ -4,11 +4,8 @@
 <a href="https://dev.to/firecentaur" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
 </p>
 
-Hi! I am Paul Preibisch. I am a diligent software engineer and project manager with 10+ years experience producing production level code for educational software startups. My platform of choice is Laravel. I am conscientious in writing good, clean and readable code. I constantly review and embrace best practices in coding to avoid problems down the road. I am also experienced with code reviews, quality control, and working with other developers in team environments.
+Hi! I am Paul Preibisch. I am a software engineer with 10 years experience producing production level code for educational software startups. My platform of choice is Laravel.
 
-👯 I’m looking to collaborate on Laravel projects.
-
-🤔 I’m looking for work as a project manager or Laravel developer
 
 📫 How to reach me:
 
@@ -23,7 +20,7 @@ Hi! I am Paul Preibisch. I am a diligent software engineer and project manager w
 
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=firecentaur&show_icons=true alt=Firecentaur />
+	<img src=https://github-readme-stats.vercel.app/api?username=paulpreibisch&show_icons=true alt="Paul Preibisch" />
 </p>
 
 # Blog posts
