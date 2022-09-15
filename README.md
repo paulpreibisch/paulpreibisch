@@ -18,11 +18,6 @@ Hi! I am Paul Preibisch. I am a software engineer with 10 years experience produ
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.com/donate/?hosted_button_id=TXCCMYFYVREJJ)
 
 
-
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=paulpreibisch&show_icons=true alt="Paul Preibisch" />
-</p>
-
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Great Tweaks for PopOs 22.04](https://dev.to/firecentaur/great-tweaks-for-popos-2204-404a)
@@ -31,4 +26,4 @@ Hi! I am Paul Preibisch. I am a software engineer with 10 years experience produ
 - [Speeds up Your Tests!](https://dev.to/firecentaur/schema-dump-speeds-up-tests-1635)
 - [Creating a Laravel Website with out of the box authentication system](https://dev.to/firecentaur/creating-a-laravel-website-with-out-of-the-box-authentication-system-jl3)
 <!-- BLOG-POST-LIST:END -->
-
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4680?logoColor=white%26project=%26recentMS=0%26showProject=false)
