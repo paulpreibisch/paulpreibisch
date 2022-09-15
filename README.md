@@ -5,6 +5,7 @@
 </p>
 
 Hi! I am Paul Preibisch. I am a software engineer with 10 years experience producing production level code for educational software startups. My platform of choice is Laravel.
+[![wakatime](https://wakatime.com/badge/user/be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2.svg)](https://wakatime.com/@be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2)
 
 
 📫 How to reach me:
@@ -16,7 +17,7 @@ Hi! I am Paul Preibisch. I am a software engineer with 10 years experience produ
 ❤️ Support my open source projects:
 
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.com/donate/?hosted_button_id=TXCCMYFYVREJJ)
-[![wakatime](https://wakatime.com/badge/user/be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2.svg)](https://wakatime.com/@be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2)
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
