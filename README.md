@@ -1,7 +1,7 @@
 <p align="center"> <h1 align="center"> Paul Preibisch</h1> </p>
 <p align="center">
 <a href="https://github.com/firecentaur" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Paul Preibisch" height="20" width="20" /></a>
-<a href="https://dev.to/firecentaur" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
+<a href="https://dev.to/paulpreibisch" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
 </p>
 
 Hi! I am Paul Preibisch. I am a software engineer with 10 years experience producing production level code for educational software startups. My platform of choice is Laravel.
@@ -12,12 +12,6 @@ Hi! I am Paul Preibisch. I am a software engineer with 10 years experience produ
 📫 How to reach me:
 
 ⚡ `Website` - [b3dmultitech.com](https://b3dmultitech.com)
-
-💬 Portfolio [firecentaur.github.io](https://firecentaur.github.io/)
-
-❤️ Support my open source projects:
-
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.com/donate/?hosted_button_id=TXCCMYFYVREJJ)
 
 
 # Blog posts
