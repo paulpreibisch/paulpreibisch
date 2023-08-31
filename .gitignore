@@ -1,6 +1,9 @@
 /.idea/firecentaur.iml
 /.idea/misc.xml
+/.idea/*
 /.idea/modules.xml
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
 .idea
+/.idea/php.xml
+/.idea/workspace.xml
