@@ -5,6 +5,21 @@
 </p>
 
 Hi! I am Paul Preibisch. I am a software engineer with 10 years experience producing production level code for educational software startups. My platform of choice is Laravel.
+I am currently employed as a Backend Programmer at Vistas Projects Limited, and work on their third party procurement software called "CurrentSCM".
+I take part daily in Team SCRUMS via Microsoft teams, part-take in code reviews, and development discussions.
+Current SCM is an enterprise application built on top of the popular PHP Framework: Laravel.
+
+I have become proficient in providing Vista Projects with:
+
+- Maintaining their Workflow Engine, which governs when Bids/Offers/Orders etc. change state.
+- Created PDF authoring microservice to merge multiple user provided documents into a single document with dynamic document indexes
+- Creating validations pipelines to implement Team/Project business rules
+- Generate Excel import/export templates using Laravel Excel to provide customers an easy way to map data into CurrentSCM
+- Optimized Test Driven Design using in-memory objects to save database cycles
+- Produce clean code utilizing Data Transfer Objects, and Enums to optimize future refactors
+- Docker Environments
+- Git, favorite commands are 'git stash push -m <some message>, git merge --squash', git cherry-pick <commit_sha>
+
 
 [![wakatime](https://wakatime.com/badge/user/be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2.svg)](https://wakatime.com/@be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2)
 
