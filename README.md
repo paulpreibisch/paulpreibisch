@@ -16,11 +16,11 @@ Hi! I am Paul Preibisch. I am a software engineer with 10 years experience produ
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Great Tweaks for PopOs 22.04](https://dev.to/firecentaur/great-tweaks-for-popos-2204-404a)
-- [Laravel and the MetaVerse](https://dev.to/firecentaur/laravel-and-the-metaverse-kid)
-- [Screen Capture tool for Linux and Windows](https://dev.to/firecentaur/screen-capture-tool-for-linux-and-windows-5mk)
-- [Speeds up Your Tests!](https://dev.to/firecentaur/schema-dump-speeds-up-tests-1635)
-- [Creating a Laravel Website with out of the box authentication system](https://dev.to/firecentaur/creating-a-laravel-website-with-out-of-the-box-authentication-system-jl3)
+- [Create a Laravel App to export a Spreadsheet with a Dropdown](https://dev.to/paulpreibisch/create-a-laravel-app-to-export-a-spreadsheet-with-a-dropdown-3nla)
+- [Workflow Optimization](https://dev.to/paulpreibisch/most-common-daily-use-of-phpstorm-4fj4)
+- [Prevent Data Entry Duplicates in Real-time, using Laravel Excel](https://dev.to/paulpreibisch/how-to-add-a-formula-to-prevent-duplicates-in-laravel-excel-2pap)
+- [Ensure Nvidia settings on restored on reboot - PopOs 22.04](https://dev.to/paulpreibisch/ensure-nvidia-settings-on-restored-on-reboot-popos-2204-4kj9)
+- [PhpStorm Open Search Results in a new Tab](https://dev.to/paulpreibisch/phpstorm-open-search-results-in-a-new-tab-205l)
 <!-- BLOG-POST-LIST:END -->
 
 
