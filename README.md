@@ -25,14 +25,10 @@ I have become proficient in providing Vista Projects with:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paulpreibisch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://img.shields.io/github/issues-pr/robertmarney/vistaprocurement/" alt="Pull Requests Badge"/>
-<img src="https://img.shields.io/github/issues/robertmarney/vistaprocurement/" alt="Issues Badge"/>
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/robertmarney/vistaprocurement?color=2b9348">
-<img src="https://img.shields.io/github/license/robertmarney/vistaprocurement/?color=2b9348" alt="License Badge"/>
-
 📫 How to reach me:
 
 ⚡ `Website` - [b3dmultitech.com](https://b3dmultitech.com)
+⚡ `Email` - [paulg@hey.com](mailto://paulg@hey.com)
 
 
 # Blog posts
