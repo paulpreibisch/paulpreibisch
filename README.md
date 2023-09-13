@@ -22,6 +22,7 @@ I have become proficient in providing Vista Projects with:
 
 
 [![wakatime](https://wakatime.com/badge/user/be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2.svg)](https://wakatime.com/@be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=paulpreibisch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 📫 How to reach me:
