@@ -4,21 +4,21 @@
 <a href="https://dev.to/paulpreibisch" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
 </p>
 
-Hi! I am Paul Preibisch. I am a software engineer with 10 years experience producing production level code for educational software startups. My platform of choice is Laravel.
-I am currently employed as a Backend Programmer at Vistas Projects Limited, and work on their third party procurement software called "CurrentSCM".
-I take part daily in Team SCRUMS via Microsoft teams, part-take in code reviews, and development discussions.
-Current SCM is an enterprise application built on top of the popular PHP Framework: Laravel.
+Hi! I am Paul Preibisch. I am a Ssoftware Developer with 10 years of experience producing production-level code for educational software startups. My platform of choice is Laravel.
+I am currently employed as a Backend Programmer at Vistas Projects Limited, and work on their third-party procurement software called CurrentSCM.
 
-I have become proficient in providing Vista Projects with:
+**CurrentSCM @ Vista Projects Limited**
+- Built and maintained a robust API on a multi-tenant enterprise application with over 850 unique endpoints.
+- Operated across the full spectrum of the Laravel Framework including areas such as notifications, queues, jobs, middleware, validations, workflows, file systems, pipelines, caching, tasks, and scheduled console commands.
+- Implemented a comprehensive Test Platform for 15 Excel Import Templates which leveraged a Data Transfer Object (DTO) to specify information about the Export.
+- Leveraged Test-Driven design to create a robust PDF authoring microservice, adhering to SOLID design principles, to consolidate user documents into a single, indexed PDF. 
+- Integrated a scalable microservice into CurrentSCM's documentation module, resulting in significant time savings for developers and reduced maintenance costs through enhanced reusability across 9 different exports.
+- Enhanced CurrentSCM's invoicing for milestone payments. Overcame challenges with floating point numbers and rounding errors via test-driven development for successful feature delivery.  
+- Constructed Json and PDF Reports by pulling data from internal systems.
+- Completed 1800+ developer hours of support, responding to Github Features and bugs listed on the issue board.
+- Attended daily scrum meetings with the team to align goals and objectives.
+- Regularly updated skill set by completing 33 LaraCast lessons and videos about Laravel, Repository management, and General Software development.
 
-- Maintaining their Workflow Engine, which governs when Bids/Offers/Orders etc. change state.
-- Created PDF authoring microservice to merge multiple user provided documents into a single document with dynamic document indexes
-- Creating validations pipelines to implement Team/Project business rules
-- Generate Excel import/export templates using Laravel Excel to provide customers an easy way to map data into CurrentSCM
-- Optimized Test Driven Design using in-memory objects to save database cycles
-- Produce clean code utilizing Data Transfer Objects, and Enums to optimize future refactors
-- Docker Environments
-- Git, favorite commands are 'git stash push -m <some message>, git merge --squash', git cherry-pick <commit_sha>
 
 
 [![wakatime](https://wakatime.com/badge/user/be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2.svg)](https://wakatime.com/@be6cf5cc-7f5a-43b3-b789-4a4ddd5b1bc2)
