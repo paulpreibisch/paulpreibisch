@@ -33,11 +33,11 @@ I am currently employed as a Backend Programmer at Vistas Projects Limited, and 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create the Best Linux shortcut to move your windows between workspaces](https://dev.to/paulpreibisch/create-the-best-linux-shortcut-to-move-your-windows-between-workspaces-49gi)
 - [Linux User living in Latin America? Install this Command-Line translator!](https://dev.to/paulpreibisch/linux-user-living-in-latin-america-install-this-command-line-translator-fa2)
 - [Create a Laravel App to export a Spreadsheet with a Dropdown](https://dev.to/paulpreibisch/create-a-laravel-app-to-export-a-spreadsheet-with-a-dropdown-3nla)
 - [Workflow Optimization](https://dev.to/paulpreibisch/most-common-daily-use-of-phpstorm-4fj4)
 - [Prevent Data Entry Duplicates in Real-time, using Laravel Excel](https://dev.to/paulpreibisch/how-to-add-a-formula-to-prevent-duplicates-in-laravel-excel-2pap)
-- [Ensure Nvidia settings on restored on reboot - PopOs 22.04](https://dev.to/paulpreibisch/ensure-nvidia-settings-on-restored-on-reboot-popos-2204-4kj9)
 <!-- BLOG-POST-LIST:END -->
 
 
