@@ -33,7 +33,7 @@ I am currently employed as a Backend Programmer at Vistas Projects Limited, and 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Before you buy Wp-events Manager - these 3 things need to be improved](https://dev.to/paulpreibisch/before-you-buy-wp-events-manager-these-3-things-need-to-be-improved-d7p)
+- [Enhancing Your Experience with WP-Events Manager: Insights and Suggestions](https://dev.to/paulpreibisch/before-you-buy-wp-events-manager-these-3-things-need-to-be-improved-d7p)
 - [Create the Best Linux shortcut to move your windows between workspaces](https://dev.to/paulpreibisch/create-the-best-linux-shortcut-to-move-your-windows-between-workspaces-49gi)
 - [Linux User living in Latin America? Install this Command-Line translator!](https://dev.to/paulpreibisch/linux-user-living-in-latin-america-install-this-command-line-translator-fa2)
 - [Create a Laravel App to export a Spreadsheet with a Dropdown](https://dev.to/paulpreibisch/create-a-laravel-app-to-export-a-spreadsheet-with-a-dropdown-3nla)
