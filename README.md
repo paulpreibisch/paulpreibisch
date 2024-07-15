@@ -4,7 +4,7 @@
 <a href="https://dev.to/paulpreibisch" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
 </p>
 
-Hi! I am Paul Preibisch. I am a Ssoftware Developer with 10 years of experience producing production-level code for educational software startups. My platform of choice is Laravel.
+Hi! I am Paul Preibisch. I am a Software Developer with 10 years of experience producing production-level code for educational software startups. My platform of choice is Laravel.
 I am currently employed as a Backend Programmer at Vistas Projects Limited, and work on their third-party procurement software called CurrentSCM.
 
 **CurrentSCM @ Vista Projects Limited**
