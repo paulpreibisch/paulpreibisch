@@ -4,8 +4,14 @@
 <a href="https://dev.to/paulpreibisch" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
 </p>
 
-Hi! I am Paul Preibisch. I am a Software Developer with 10 years of experience producing production-level code for educational software startups. My platform of choice is Laravel.
-I am currently employed as a Backend Programmer at Vistas Projects Limited, and work on their third-party procurement software called CurrentSCM.
+Hi! I am Paul Preibisch. I have been a Software Developer for over 12 years. The majority of my experience exists within the educational software space. 
+I operated as the Lead developer for the Movie English Project (now Globify.com) for 10 years.  
+My platform of choice is Laravel.
+
+My most recent development experience was as a Backend Programmer for Vistas Projects Limited, the developers of CurrentSCM - which is an enterprise grade application.
+That 13 month contract planted my feet firmly in the world of Laravel where I invested 1800 hours digesting the platform.
+
+I now am continuing on with Laravel, and most specifically Statamic, where I am developing a Rental Booking System.
 
 **CurrentSCM @ Vista Projects Limited**
 - Built and maintained a robust API on a multi-tenant enterprise application with over 850 unique endpoints.
