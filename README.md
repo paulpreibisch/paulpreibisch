@@ -4,27 +4,32 @@
 <a href="https://dev.to/paulpreibisch" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
 </p>
 
-Hi! I am Paul Preibisch. I have been a Software Developer for over 12 years. The majority of my experience exists within the educational software space. 
-I operated as the Lead developer for the Movie English Project (now Globify.com) for 10 years.  
-My platform of choice is Laravel.
+Hi! I am Paul Preibisch. I have been a Software Developer for over 12 years. The majority of my experience exists within the educational software space. I operated as the Lead developer for the Movie English Project (now Globify.com) for 10 years. My platform of choice is Laravel, though I also work extensively with modern JavaScript frameworks and have recently been deep diving into agentic programming.
 
-My most recent development experience was as a Backend Programmer for Vistas Projects Limited, the developers of CurrentSCM - which is an enterprise grade application.
-That 13 month contract planted my feet firmly in the world of Laravel where I invested 1800 hours digesting the platform.
+My most recent development experience includes building a highly scalable content creation tool for an educational company, developing enterprise applications, and contributing to open source projects.
 
-I now am continuing on with Laravel, and most specifically Statamic, where I am developing a Rental Booking System.
+Educational Content Creation Platform
+    Developed a highly scalable content creation tool that enables clients to upload thousands of sentences and automatically generate corresponding images for each sentence.
+    Built the application using Express.js, React, and Node.js to handle large-scale content processing and image generation workflows.
+    Implemented efficient batch processing and queue management systems to handle thousands of simultaneous content generation requests.
 
-**CurrentSCM @ Vista Projects Limited**
-- Built and maintained a robust API on a multi-tenant enterprise application with over 850 unique endpoints.
-- Operated across the full spectrum of the Laravel Framework including areas such as notifications, queues, jobs, middleware, validations, workflows, file systems, pipelines, caching, tasks, and scheduled console commands.
-- Implemented a comprehensive Test Platform for 15 Excel Import Templates which leveraged a Data Transfer Object (DTO) to specify information about the Export.
-- Leveraged Test-Driven design to create a robust PDF authoring microservice, adhering to SOLID design principles, to consolidate user documents into a single, indexed PDF. 
-- Integrated a scalable microservice into CurrentSCM's documentation module, resulting in significant time savings for developers and reduced maintenance costs through enhanced reusability across 9 different exports.
-- Enhanced CurrentSCM's invoicing for milestone payments. Overcame challenges with floating point numbers and rounding errors via test-driven development for successful feature delivery.  
-- Constructed Json and PDF Reports by pulling data from internal systems.
-- Completed 1800+ developer hours of support, responding to Github Features and bugs listed on the issue board.
-- Attended daily scrum meetings with the team to align goals and objectives.
-- Regularly updated skill set by completing 33 LaraCast lessons and videos about Laravel, Repository management, and General Software development.
+Open Source Contributions & Agentic Programming
+    Consistent contributor to the MCP Shrimp Task Manager open source repository, focusing on task automation and workflow optimization.
+    Invested over 850 hours deep diving into agentic programming, exploring autonomous systems and AI-driven development workflows.
+    Actively engaged in modern development practices involving agent-based programming paradigms.
 
+CurrentSCM @ Vista Projects Limited
+
+   Built and maintained a robust API on a multi-tenant enterprise application with over 850 unique endpoints.
+    Operated across the full spectrum of the Laravel Framework including areas such as notifications, queues, jobs, middleware, validations, workflows, file systems, pipelines, caching, tasks, and scheduled console commands.
+    Implemented a comprehensive Test Platform for 15 Excel Import Templates which leveraged a Data Transfer Object (DTO) to specify information about the Export.
+    Leveraged Test-Driven design to create a robust PDF authoring microservice, adhering to SOLID design principles, to consolidate user documents into a single, indexed PDF.
+    Integrated a scalable microservice into CurrentSCM's documentation module, resulting in significant time savings for developers and reduced maintenance costs through enhanced reusability across 9 different exports.
+    Enhanced CurrentSCM's invoicing for milestone payments. Overcame challenges with floating point numbers and rounding errors via test-driven development for successful feature delivery.
+    Constructed Json and PDF Reports by pulling data from internal systems.
+    Completed 1800+ developer hours of support, responding to Github Features and bugs listed on the issue board.
+    Attended daily scrum meetings with the team to align goals and objectives.
+    Regularly updated skill set by completing 33 LaraCast lessons and videos about Laravel, Repository management, and General Software development.
 
 
 📫 How to reach me:
