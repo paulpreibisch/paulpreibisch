@@ -1,52 +1,62 @@
-<p align="center"> <h1 align="center"> Paul Preibisch</h1> </p>
-<p align="center">
-<a href="https://github.com/firecentaur" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Paul Preibisch" height="20" width="20" /></a>
-<a href="https://dev.to/paulpreibisch" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
-</p>
+# Hi! I'm Paul Preibisch
 
-Hi! I am Paul Preibisch. I have been a Software Developer for over 12 years. The majority of my experience exists within the educational software space. I operated as the Lead developer for the Movie English Project (now Globify.com) for 10 years. My platform of choice is Laravel, though I also work extensively with modern JavaScript frameworks and have recently been deep diving into agentic programming.
+Software Developer with 12+ years of experience, currently focused on **agentic programming** and building tools that enhance the AI development experience.
 
-My most recent development experience includes building a highly scalable content creation tool for an educational company, developing enterprise applications, and contributing to open source projects.
+---
 
-Educational Content Creation Platform
-    Developed a highly scalable content creation tool that enables clients to upload thousands of sentences and automatically generate corresponding images for each sentence.
-    Built the application using Express.js, React, and Node.js to handle large-scale content processing and image generation workflows.
-    Implemented efficient batch processing and queue management systems to handle thousands of simultaneous content generation requests.
+## Open Source Projects
 
-Open Source Contributions & Agentic Programming
-    Consistent contributor to the MCP Shrimp Task Manager open source repository, focusing on task automation and workflow optimization.
-    Invested over 850 hours deep diving into agentic programming, exploring autonomous systems and AI-driven development workflows.
-    Actively engaged in modern development practices involving agent-based programming paradigms.
+### AgentVibes
 
-CurrentSCM @ Vista Projects Limited
+**Creator and maintainer** | [github.com/paulpreibisch/AgentVibes](https://github.com/paulpreibisch/AgentVibes)
 
-   Built and maintained a robust API on a multi-tenant enterprise application with over 850 unique endpoints.
-    Operated across the full spectrum of the Laravel Framework including areas such as notifications, queues, jobs, middleware, validations, workflows, file systems, pipelines, caching, tasks, and scheduled console commands.
-    Implemented a comprehensive Test Platform for 15 Excel Import Templates which leveraged a Data Transfer Object (DTO) to specify information about the Export.
-    Leveraged Test-Driven design to create a robust PDF authoring microservice, adhering to SOLID design principles, to consolidate user documents into a single, indexed PDF.
-    Integrated a scalable microservice into CurrentSCM's documentation module, resulting in significant time savings for developers and reduced maintenance costs through enhanced reusability across 9 different exports.
-    Enhanced CurrentSCM's invoicing for milestone payments. Overcame challenges with floating point numbers and rounding errors via test-driven development for successful feature delivery.
-    Constructed Json and PDF Reports by pulling data from internal systems.
-    Completed 1800+ developer hours of support, responding to Github Features and bugs listed on the issue board.
-    Attended daily scrum meetings with the team to align goals and objectives.
-    Regularly updated skill set by completing 33 LaraCast lessons and videos about Laravel, Repository management, and General Software development.
+Professional Text-to-Speech system for AI assistants that brings Claude Code, Claude Desktop, and Warp Terminal to life with voice narration.
 
+- Multi-provider support: ElevenLabs (150+ premium voices), Piper TTS (50+ free), macOS Say (100+ built-in)
+- 19 built-in personalities from sarcastic to professional
+- Language Learning Mode - learn a second language while you code
+- 30+ languages with native voice quality
+- SSH audio optimization for remote development
 
-📫 How to reach me:
+**Tech:** Node.js, Bash, MCP Server architecture | **Version:** v2.14.14
 
-⚡ `Email` - [paulg@hey.com](mailto://paulg@hey.com)
+### MCP Shrimp Task Manager
 
+Consistent contributor focused on task automation and workflow optimization.
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Sick of WordPress?](https://dev.to/paulpreibisch/sick-of-wordpress-5god)
-- [Enhancing Your Experience with WP-Events Manager: Insights and Suggestions](https://dev.to/paulpreibisch/before-you-buy-wp-events-manager-these-3-things-need-to-be-improved-d7p)
-- [Create the Best Linux shortcut to move your windows between workspaces](https://dev.to/paulpreibisch/create-the-best-linux-shortcut-to-move-your-windows-between-workspaces-49gi)
-- [Linux User living in Latin America? Install this Command-Line translator!](https://dev.to/paulpreibisch/linux-user-living-in-latin-america-install-this-command-line-translator-fa2)
-- [Create a Laravel App to export a Spreadsheet with a Dropdown](https://dev.to/paulpreibisch/create-a-laravel-app-to-export-a-spreadsheet-with-a-dropdown-3nla)
-<!-- BLOG-POST-LIST:END -->
+---
 
+## Agentic Programming
 
+Invested **850+ hours** deep diving into agentic programming, exploring autonomous systems and AI-driven development workflows. Actively engaged in modern development practices involving agent-based programming paradigms.
 
+---
 
+## Professional Experience
 
+### Lead Developer - Movie English Project / Globify.com (10 years)
+
+Full-stack development leadership across the educational software platform.
+
+### Educational Content Creation Platform
+
+Built a highly scalable content creation tool enabling clients to upload thousands of sentences with automatic image generation. Express.js, React, Node.js with efficient batch processing and queue management systems.
+
+### SCM @ Vista Projects Limited
+
+- Built and maintained a robust API on a multi-tenant enterprise application with **850+ unique endpoints**
+- Leveraged Test-Driven Design for a PDF authoring microservice using SOLID principles
+- Integrated scalable microservices into documentation modules, serving **9 different exports**
+- Completed **1,800+ developer hours** of support across the full Laravel framework spectrum
+
+---
+
+## Tech Stack
+
+**Primary:** Laravel, Node.js, React, Express.js
+
+**Interests:** Agentic Programming, AI-driven workflows, MCP architecture
+
+---
+
+[@997Fire](https://x.com/997Fire)
