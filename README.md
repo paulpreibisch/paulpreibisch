@@ -1,5 +1,3 @@
-# GitHub Profile Draft - Paul Preibisch
-
 ## Overview
 Hi! I'm Paul Preibisch, a Software Developer with over 20 years of experience in full-stack programing, primarily in educational software. I'm currently deep diving into agentic programming and modern AI-driven development workflows.
 
