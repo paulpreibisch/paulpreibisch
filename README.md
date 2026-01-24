@@ -1,62 +1,60 @@
-# Hi! I'm Paul Preibisch
+# GitHub Profile Draft - Paul Preibisch
 
-Software Developer with 12+ years of experience, currently focused on **agentic programming** and building tools that enhance the AI development experience.
+## Overview
+Hi! I'm Paul Preibisch, a Software Developer with over 20 years of experience in full-stack programing, primarily in educational software. I'm currently deep diving into agentic programming and modern AI-driven development workflows.
 
----
+## Current Focus
 
-## Open Source Projects
+### 🎭 AgentVibes - Voice-Enabled AI Development
+Creator and maintainer of [AgentVibes](https://github.com/paulpreibisch/AgentVibes), a professional Text-to-Speech system that brings Claude Code, Claude Desktop, and Warp Terminal to life with voice narration. This project represents my deep dive into agentic programming, where I've invested over 850 hours exploring autonomous systems and AI-driven development workflows.
 
-### AgentVibes
-
-**Creator and maintainer** | [github.com/paulpreibisch/AgentVibes](https://github.com/paulpreibisch/AgentVibes)
-
-Professional Text-to-Speech system for AI assistants that brings Claude Code, Claude Desktop, and Warp Terminal to life with voice narration.
-
-- Multi-provider support: ElevenLabs (150+ premium voices), Piper TTS (50+ free), macOS Say (100+ built-in)
+**Key Features:**
+- Multi-provider support: Piper TTS (50+ free voices), macOS Say (100+ built-in), Termux (Android)
 - 19 built-in personalities from sarcastic to professional
-- Language Learning Mode - learn a second language while you code
-- 30+ languages with native voice quality
+- Language Learning Mode - learn a second language while you code with 30+ languages
 - SSH audio optimization for remote development
+- MCP Server architecture with comprehensive hook system
+- Advanced audio effects: reverb, EQ, pitch shifting, background music
+- Tech: Node.js, Bash, Python MCP Server | Version: v3.1.0
 
-**Tech:** Node.js, Bash, MCP Server architecture | **Version:** v2.14.14
+## Recent Work
 
-### MCP Shrimp Task Manager
+### Educational Content Creation Platform
+Developed a highly scalable content creation tool that enables clients to upload thousands of sentences and automatically generate corresponding images for each sentence. Built with Express.js, React, and Node.js, featuring:
+- Efficient batch processing and queue management
+- Handling thousands of simultaneous content generation requests
+- Large-scale content processing workflows
 
-Consistent contributor focused on task automation and workflow optimization.
-
----
-
-## Agentic Programming
-
-Invested **850+ hours** deep diving into agentic programming, exploring autonomous systems and AI-driven development workflows. Actively engaged in modern development practices involving agent-based programming paradigms.
-
----
+### Open Source Contributions
+- Consistent contributor to the MCP Shrimp Task Manager repository
+- Focus on task automation and workflow optimization
+- Active engagement in agent-based programming paradigms
 
 ## Professional Experience
 
-### Lead Developer - Movie English Project / Globify.com (10 years)
+### Lead Developer - CurrentSCM @ Vista Projects Limited
+- Built and maintained robust API with 850+ unique endpoints on multi-tenant enterprise application
+- Full-spectrum Laravel Framework development: notifications, queues, jobs, middleware, validations, workflows, pipelines, caching
+- Created comprehensive Test Platform for 15 Excel Import Templates using DTOs
+- Developed scalable PDF authoring microservice using TDD and SOLID principles
+- Consolidated documentation across 9 different exports, saving significant development time
+- Enhanced invoicing for milestone payments, solving complex floating point challenges
+- Completed 1800+ developer hours of support, resolving GitHub issues and features
+- Completed 33 LaraCast lessons for continuous skill development
 
-Full-stack development leadership across the educational software platform.
-
-### Educational Content Creation Platform
-
-Built a highly scalable content creation tool enabling clients to upload thousands of sentences with automatic image generation. Express.js, React, Node.js with efficient batch processing and queue management systems.
-
-### SCM @ Vista Projects Limited
-
-- Built and maintained a robust API on a multi-tenant enterprise application with **850+ unique endpoints**
-- Leveraged Test-Driven Design for a PDF authoring microservice using SOLID principles
-- Integrated scalable microservices into documentation modules, serving **9 different exports**
-- Completed **1,800+ developer hours** of support across the full Laravel framework spectrum
-
----
+### Lead Developer - Movie English Project (now Globify.com)
+10 years leading platform development in educational software space
 
 ## Tech Stack
+- **Primary:** Laravel, PHP
+- **Frontend:** React, modern JavaScript frameworks
+- **Backend:** Node.js, Express.js
+- **Current Focus:** Agentic Programming, AI Development, Claude Code
+- **DevOps:** Queue systems, batch processing, microservices
 
-**Primary:** Laravel, Node.js, React, Express.js
-
-**Interests:** Agentic Programming, AI-driven workflows, MCP architecture
+## Get in Touch
+🌐 Website: [preibisch.biz](https://preibisch.biz)
+📍 Location: La Paz, BCS
 
 ---
-
-[@997Fire](https://x.com/997Fire)
+*"Digging Deep into Agentic Programming"*
